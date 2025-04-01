@@ -1,6 +1,6 @@
 <h1 id="name">ВК Зенит Санкт-Петербург</h1>
          <img id="ZenitS" src="https://vczenit.ru/wp-content/uploads/2017/08/02-09-ijulja-2017-Utverzhden-logotip-volejbolnogo-kluba-Zenit-Sankt-Peterburg-foto.jpg">
-         <br><h2>Игроки</h2><br>
+         <br><h2>Игроки</h2> <br>
          <img id="ВладиславБ"src="https://vczenit.ru/wp-content/uploads/2024/09/IMG_20240905_182029_500_x_450_piksel.jpg">
  <br>
          <div id="stats"><p id="ratingвладиславБабкевич">ОБЩ</p><p id="inningsвладиславБабкевич" >подача</p><p id="attackвладиславБабкевич">атака 87</p><p id="blockвладиславБабкевич">блок</p><p id="passвладиславБабкевич">пас</p><p id="defenseвладиславБабкевич">защита </p></div>
