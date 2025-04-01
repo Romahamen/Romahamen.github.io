@@ -1,0 +1,43 @@
+<h1 id="name">ВК Зенит Санкт-Петербург</h1>
+         <img id="ZenitS" src="https://vczenit.ru/wp-content/uploads/2017/08/02-09-ijulja-2017-Utverzhden-logotip-volejbolnogo-kluba-Zenit-Sankt-Peterburg-foto.jpg">
+         <br><h2>Игроки</h2><br>
+         <img id="ВладиславБ"src="https://vczenit.ru/wp-content/uploads/2024/09/IMG_20240905_182029_500_x_450_piksel.jpg">
+ <br>
+         <div id="stats"><p id="ratingвладиславБабкевич">ОБЩ</p><p id="inningsвладиславБабкевич" >подача</p><p id="attackвладиславБабкевич">атака 87</p><p id="blockвладиславБабкевич">блок</p><p id="passвладиславБабкевич">пас</p><p id="defenseвладиславБабкевич">защита </p></div>
+     <hr>
+         <img id="ПавелЮ" src="https://vczenit.ru/wp-content/uploads/2024/09/IMG_20240905_181703_500_x_450_piksel.jpg">
+         <div id="stats"><p id="ratingпавелЮринский">ОБЩ </p><p id="inningsпавелЮринский" >подача </p><p id="attackпавелЮринский">атака 58</p><p id="blockпавелЮринский">блок </p><p id="passпавелЮринский">пас </p><p id="defenseпавелЮринский">защита </p></div>
+     <hr>
+         <img id="ДмитрийК" src="https://vczenit.ru/wp-content/uploads/1991/03/IMG_20241008_103306_500_x_450_piksel.jpg">
+         <div id="stats"><p id="ratingдмитрийКовалев">ОБЩ </p><p id="inningsдмитрийКовалев" >подача </p><p id="attackдмитрийКовалев">атака 68</p><p id="blockдмитрийКовалев">блок </p><p id="passдмитрийКовалев">пас </p><p id="defenseдмитрийКовалев">защита </p></div>
+     <hr>
+         <img id="СеменК" src="https://vczenit.ru/wp-content/uploads/2024/09/IMG_20240905_181622_500_x_450_piksel.jpg">
+         <div id="stats"><p id="ratingсеменКривитченко">ОБЩ </p><p id="passсеменКривитченко">пас </p><p id="defenseсеменКривитченко">защита </p></div>
+     <hr>
+         <img id="ВасилийТ" src="https://vczenit.ru/wp-content/uploads/2024/09/IMG_20240905_174711_500_x_450_piksel.jpg">
+         <div id="stats"><p id="ratingвасилийТарасенко">ОБЩ </p><p id="inningsвасилийТарасенко">подача </p><p id="attackвасилийТарасенко">атака 66</p><p id="blockвасилийТарасенко">блок </p><p id="passвасилийТарасенко">пас </p><p id="defenseвасилийТарасенко">защита </p></div>
+     <hr>
+         <img id="ТимофейТ" src="https://vczenit.ru/wp-content/uploads/2024/09/IMG_20240905_182420_500_x_450_piksel.jpg">
+         <div id="stats"><p id="ratingтимофейТихонов">ОБЩ </p><p id="inningsтимофейТихонов">подача </p><p id="attackтимофейТихонов">атака 62</p><p id="blockтимофейТихонов">блок </p><p id="passтимофейТихонов">пас </p><p id="defenseтимофейТихонов">защита </p></div>
+     <hr>
+         <img id="СтаниславД" src="https://vczenit.ru/wp-content/uploads/2024/09/IMG_20240905_181923_500_x_450_piksel.jpg">
+         <div id="stats"><p id="ratingстаниславДинейкин">ОБЩ </p><p id="inningsстаниславДинейкин">подача </p><p id="attackстаниславДинейкин">атака 78</p><p id="blockстаниславДинейкин">блок </p><p id="passстаниславДинейкин">пас </p><p id="defenseстаниславДинейкин">защита </p></div>
+     <hr>
+         <img id="ЖеняГ" src="https://vczenit.ru/wp-content/uploads/2024/09/IMG_20240905_182111_500_x_450_piksel.jpg">
+         <div id="stats"><p id="ratingженяГребенников">ОБЩ </p><p id="passженяГребенников">пас </p><p id="defenseженяГребенников">защита </p></div>
+     <hr>
+         <img id="ИванЯ" src="https://vczenit.ru/wp-content/uploads/2024/09/IMG_20240905_182507_500_x_450_piksel.jpg">
+         <div id="stats"><p id="ratingиванЯковлев">ОБЩ </p><p id="inningsиванЯковлев">подача </p><p id="attackиванЯковлев">атака 62</p><p id="blockиванЯковлев">блок </p><p id="passиванЯковлев">пас </p><p id="defenseиванЯковлев">защита </p></div>
+     <hr>
+         <img id="ДенисЧ" src="https://vczenit.ru/wp-content/uploads/2024/09/IMG_20240905_182253_500_x_450_piksel.jpg">
+         <div id="stats"><p id="ratingденисЧерейский">ОБЩ </p><p id="inningsденисЧерейский">подача </p><p id="attackденисЧерейский">атака 78</p><p id="blockденисЧерейский">блок </p><p id="passденисЧерейский">пас </p><p id="defenseденисЧерейский">защита </p></div>
+     <hr>
+         <img id="АлександрБ" src="https://vczenit.ru/wp-content/uploads/2024/09/IMG_20240905_174956_500_x_450_piksel.jpg">
+         <div id="stats"><p id="ratingалександрБутько">ОБЩ </p><p id="inningsалександрБутько">подача </p><p id="attackалександрБутько">атака 53</p><p id="blockалександрБутько">блок </p><p id="passалександрБутько">пас </p><p id="defenseалександрБутько">защита </p></div>
+     <hr>
+         <img id="МаксимК" src="https://vczenit.ru/wp-content/uploads/2024/09/IMG_20240905_182622_500_x_450_piksel.jpg">
+         <div id="stats"><p id="ratingмаксимКосмин">ОБЩ </p><p id="inningsмаксимКосмин">подача </p><p id="attackмаксимКосмин">атака 61</p><p id="blockмаксимКосмин">блок </p><p id="passмаксимКосмин">пас </p><p id="defenseмаксимКосмин">защита </p></div>
+     <hr>
+         <img id="ВикторП" src="https://vczenit.ru/wp-content/uploads/2024/09/IMG_20240905_182201_500_x_450_piksel.jpg">
+         <div id="stats"><p id="ratingвикторПолетаев">ОБЩ </p><p id="inningsвикторПолетаев">подача </p><p id="attackвикторПолетаев">атака 74</p><p id="blockвикторПолетаев">блок </p><p id="passвикторПолетаев">пас </p><p id="defenseвикторПолетаев">защита </p></div>
+     <hr>
